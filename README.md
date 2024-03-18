@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <details open>
    <summary> <h2>📊 Stats and Activity</h2> </summary>
 
-   <h3>💻 GitHub Profile Stats</h3>
    </a>
    <a href="https://github.com/AdrianCAG">
    <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=AdrianCAG&theme=dracula&hide_border=true" height="192px"/>
