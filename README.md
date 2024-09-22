@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
   <p>
     <img
-        src="https://skillicons.dev/icons?i=swift,kotlin,python,c,cpp,ocaml,mysql,gradle,vscode,androidstudio,emacs,idea,clion,anaconda,vim,neovim,bash,github,figma,firebase,postman,latex,linux"
+        src="https://skillicons.dev/icons?i=swift,kotlin,cpp,c,python,ruby,ocaml,mysql,gradle,vscode,androidstudio,emacs,idea,clion,anaconda,vim,neovim,bash,github,figma,firebase,postman,latex,linux"
       
   </p>
 </details>  
